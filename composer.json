@@ -1,7 +1,7 @@
 {
-  "name": "dl/clients",
-  "type": "library",
-  "version": "1.0.3",
+  "name": "bs/dl-clients",
+  "type": "bs-modules",
+  "version": "1.0.5",
   "autoload": {
     "psr-4": {
       "BS\\DL\\Modules\\Clients\\": "src"
