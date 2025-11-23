@@ -1,6 +1,6 @@
 {
   "name": "dl/clients",
-  "type": "bs-modules",
+  "type": "library",
   "version": "1.0.1",
   "autoload": {
     "psr-4": {
